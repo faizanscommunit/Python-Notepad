@@ -1,6 +1,6 @@
 ## Python - Notepad | by Faizanscommunit
 - *Full Source Code*
-- *Non - Copyrighted*
+- *MIT- License*
 - *Free to use*
 - *Programming Language (Python)*
 
