@@ -1,7 +1,7 @@
 #                IMPORTANT TO NOTE
 '''
     This Notepad is published by faizanscommunit.
-    This notepad has NO-COPYRIGHT
+    This notepad has MIT License
     Github: https://github.com/faizanscommunit
     Fiverr: https://www.fiverr.com/faizanscommunit
 
